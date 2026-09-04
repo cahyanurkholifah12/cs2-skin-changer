@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Cs2Skins.Core</RootNamespace>
+    <AssemblyName>Cs2Skins.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
